@@ -1,4 +1,4 @@
-package recursion;
+package by.mironenka.recursion;
 
 import org.junit.Test;
 

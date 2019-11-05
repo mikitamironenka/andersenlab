@@ -36,7 +36,7 @@ public class SelectionSorter {
             // If the array is empty
             // or the index is not in array range
             // return the original array
-            if ( !(arr == null
+            if (!(arr == null
                     || index < 0
                     || index >= arr.length)) {
                 result = IntStream.range(0, arr.length)

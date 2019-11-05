@@ -1,4 +1,4 @@
-package selectionsort;
+package by.mironenka.selectionsort;
 
 import org.junit.Test;
 
